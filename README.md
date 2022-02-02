@@ -14,6 +14,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 ## Rust
 
 - [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling
+- [Meuse](https://github.com/mcorbin/meuse) A private crates registry with tons of features.
 
 ## Python
 
@@ -21,13 +22,13 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 ## Clojure
 
-- [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) article by yours truly on how to write a Clojure webapp with DB from scratch.
+- [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) (by me :metal:) how to write a Clojure webapp with DB from scratch.
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what mapcat does
 
 ## Ubuntu
 
-- [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html)
+- [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html) The list of SRUs currently in progress. Helpful to help validate/track status when waiting for a fix.
 - [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/)
 - [Upload queue](https://launchpad.net/ubuntu/xenial/+queue?queue_state=1)
 - [The launchpad build farm](https://launchpad.net/builders)
