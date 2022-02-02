@@ -13,6 +13,10 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 - [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling
 
+## Clojure
+
+- [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) article by yours truly on how to write a Clojure webapp with DB from scratch.
+
 ## Ubuntu
 
 - [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html)
@@ -25,6 +29,10 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 - [Components mismatches](http://people.canonical.com/~ubuntu-archive/component-mismatches.txt)
 - [Kernel SRU workflows](http://kernel.ubuntu.com/sru/kernel-sru-workflow.html)
 
+## CLI tools
+
+- [termshark](https://termshark.io/) when normal wireshark is too heavy, or you don't have a GUI
+- [fzf](https://github.com/junegunn/fzf) a command-line fuzzy finder
 
 
 ## Dealing with people
