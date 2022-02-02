@@ -5,9 +5,11 @@ This is basically a personal reference for stuff.
 
 Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many thanks!
 
-## General programming
+## General programming practices
 
 - [Antirez on writing comments](http://antirez.com/news/124) Taxonomy of comments, and how to write useful comments
+- [The rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) and [a longer form take on it](https://andrewbrookins.com/technology/the-rule-of-three/)
+- [The law of least surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
 ## Rust
 
