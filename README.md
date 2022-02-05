@@ -10,6 +10,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 - [Antirez on writing comments](http://antirez.com/news/124) Taxonomy of comments, and how to write useful comments
 - [The rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) and [a longer form take on it](https://andrewbrookins.com/technology/the-rule-of-three/)
 - [The law of least surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+- [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) Don't add functionality until deemed necessary
 
 ## Rust
 
