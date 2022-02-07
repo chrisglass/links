@@ -20,6 +20,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 ## Python
 
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embedds in python
+- [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
 
 ## Clojure
 
