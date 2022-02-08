@@ -14,13 +14,14 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 ## Rust
 
-- [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling
+- [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling.
 - [Meuse](https://github.com/mcorbin/meuse) A private crates registry with tons of features.
 
 ## Python
 
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embedds in python
 - [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
+- [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
 
 ## Clojure
 
@@ -53,3 +54,9 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
+
+## Meta: other lists of links and TILs
+- [Pawel's](https://github.com/pawroman/links)
+- [Simon Willison's](https://til.simonwillison.net)
+- [Josh Branchaud's](https://github.com/jbranchaud/til)
+- [Srinivas's](https://shireenrao.github.io/til/)
