@@ -46,6 +46,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 - [termshark](https://termshark.io/) when normal wireshark is too heavy, or you don't have a GUI
 - [fzf](https://github.com/junegunn/fzf) a command-line fuzzy finder
+- [spotifyd](https://github.com/Spotifyd/spotifyd) a spotify-compatible daemon (appears in your list of spotify devices)
 
 
 ## Dealing with people
