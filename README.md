@@ -16,6 +16,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 - [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling.
 - [Meuse](https://github.com/mcorbin/meuse) A private crates registry with tons of features.
+- [Reshape](https://github.com/fabianlindfors/reshape) provides 0-downtime schema migrations (see [the blog post](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/), too)
 
 ## Python
 
