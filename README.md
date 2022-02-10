@@ -34,7 +34,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 - [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html) The list of SRUs currently in progress. Helpful to help validate/track status when waiting for a fix.
 - [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/)
-- [Upload queue](https://launchpad.net/ubuntu/xenial/+queue?queue_state=1)
+- [Upload queue](https://launchpad.net/ubuntu/impish/+queue?queue_state=1)
 - [The launchpad build farm](https://launchpad.net/builders)
 - [Proposed migration excuses](https://people.canonical.com/~ubuntu-archive/proposed-migration/update_excuses.html)
 - [Merge-o-matic](https://merges.ubuntu.com/)
