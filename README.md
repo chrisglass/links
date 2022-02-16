@@ -30,10 +30,14 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what mapcat does
 
+## Golang
+
+- [The zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go) a pretty good article on some aspects of "idiomatic" Go.
+
 ## Ubuntu
 
 - [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html) The list of SRUs currently in progress. Helpful to help validate/track status when waiting for a fix.
-- [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/)
+- [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/) The list of patches to packages by non-maintainers/non-developpers awaiting a maintainer sponsorship to land.
 - [Upload queue](https://launchpad.net/ubuntu/impish/+queue?queue_state=1)
 - [The launchpad build farm](https://launchpad.net/builders)
 - [Proposed migration excuses](https://people.canonical.com/~ubuntu-archive/proposed-migration/update_excuses.html)
@@ -55,6 +59,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 ## Dealing with people
 
+- [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf) a summary of Rosenberg's excellent "Nonviolent communication" book.
 - [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
