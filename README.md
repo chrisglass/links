@@ -1,9 +1,7 @@
 # Links
 
 A collection of useful and insightful links found on the internet.
-This is basically a personal reference for stuff.
-
-Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many thanks!
+This is basically a personal reference that also happens to be public
 
 ## General programming practices
 
