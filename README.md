@@ -20,7 +20,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 ## Python
 
-- [Hy](https://github.com/hylang/hy) a dialect of lisp that embedds in python
+- [Hy](https://github.com/hylang/hy) a dialect of lisp that embeds in python
 - [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
 
@@ -28,7 +28,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 
 - [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) (by me :metal:) how to write a Clojure webapp with DB from scratch.
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
-- [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what mapcat does
+- [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what `mapcat` does
 
 ## Golang
 
@@ -37,7 +37,7 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 ## Ubuntu
 
 - [Pending SRUs](https://people.canonical.com/~ubuntu-archive/pending-sru.html) The list of SRUs currently in progress. Helpful to help validate/track status when waiting for a fix.
-- [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/) The list of patches to packages by non-maintainers/non-developpers awaiting a maintainer sponsorship to land.
+- [Sponsorship queue](http://reqorts.qa.ubuntu.com/reports/sponsoring/) The list of patches to packages by non-maintainers/non-developers awaiting a maintainer sponsorship to land.
 - [Upload queue](https://launchpad.net/ubuntu/impish/+queue?queue_state=1)
 - [The launchpad build farm](https://launchpad.net/builders)
 - [Proposed migration excuses](https://people.canonical.com/~ubuntu-archive/proposed-migration/update_excuses.html)
