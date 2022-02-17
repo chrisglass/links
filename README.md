@@ -12,27 +12,34 @@ Inspired by [Pawel's links repository](https://github.com/pawroman/links). Many 
 - [The law of least surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) Don't add functionality until deemed necessary
 
-## Rust
+## Programming languages
+
+A collection of language-specific tips and tricks.
+### Rust
 
 - [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling.
 - [Meuse](https://github.com/mcorbin/meuse) A private crates registry with tons of features.
 - [Reshape](https://github.com/fabianlindfors/reshape) provides 0-downtime schema migrations (see [the blog post](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/), too)
 
-## Python
+### Python
 
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embeds in python
 - [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
 
-## Clojure
+### Clojure
 
 - [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) (by me :metal:) how to write a Clojure webapp with DB from scratch.
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what `mapcat` does
 
-## Golang
+### Golang
 
 - [The zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go) a pretty good article on some aspects of "idiomatic" Go.
+
+### Multiple
+
+- [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
 
 ## Ubuntu
 
