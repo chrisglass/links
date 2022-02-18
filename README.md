@@ -24,6 +24,7 @@ A collection of language-specific tips and tricks.
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embeds in python
 - [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
+- [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx...
 
 ### Clojure
 
