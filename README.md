@@ -61,6 +61,7 @@ A collection of language-specific tips and tricks.
 - [termshark](https://termshark.io/) when normal wireshark is too heavy, or you don't have a GUI
 - [fzf](https://github.com/junegunn/fzf) a command-line fuzzy finder
 - [spotifyd](https://github.com/Spotifyd/spotifyd) a spotify-compatible daemon (appears in your list of spotify devices)
+- [gh-prs](https://github.com/dlvhdr/gh-prs) View and interact with github PRs in the terminal
 
 
 ## Dealing with people
