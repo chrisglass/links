@@ -41,6 +41,7 @@ A collection of language-specific tips and tricks.
 ### Multiple
 
 - [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
+- [General Orchestrator pattern](https://kislayverma.com/software-architecture/architecture-pattern-orchestration-via-workflows/)
 
 ## Ubuntu
 
