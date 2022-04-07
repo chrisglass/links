@@ -65,6 +65,7 @@ A collection of language-specific tips and tricks.
 - [fzf](https://github.com/junegunn/fzf) a command-line fuzzy finder
 - [spotifyd](https://github.com/Spotifyd/spotifyd) a spotify-compatible daemon (appears in your list of spotify devices)
 - [gh-prs](https://github.com/dlvhdr/gh-prs) View and interact with github PRs in the terminal
+- [barrier](https://github.com/debauchee/barrier) an open-source software KVM switch that works seamlessly across Mac, Windows and Linux.
 
 
 ## Dealing with people
