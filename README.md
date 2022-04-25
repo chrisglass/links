@@ -28,6 +28,9 @@ A collection of language-specific tips and tricks.
 - [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx...
 - [Pre-commit](https://pre-commit.com/) A python package to make pre-commit hooks much easier to write/run
 - [Memray](https://github.com/bloomberg/memray) A pretty good memory profiler
+- [Scalene](https://github.com/plasma-umass/scalene) A high performance profiler
+- [Slipcover](https://github.com/plasma-umass/slipcover) a near-zero overhead coverage tool for python
+
 
 ### Clojure
 
