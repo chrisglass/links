@@ -27,6 +27,7 @@ A collection of language-specific tips and tricks.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
 - [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx...
 - [Pre-commit](https://pre-commit.com/) A python package to make pre-commit hooks much easier to write/run
+- [Memray](https://github.com/bloomberg/memray) A pretty good memory profiler
 
 ### Clojure
 
