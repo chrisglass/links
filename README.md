@@ -19,6 +19,7 @@ A collection of language-specific tips and tricks.
 - [Meuse](https://github.com/mcorbin/meuse) A private crates registry with tons of features.
 - [Reshape](https://github.com/fabianlindfors/reshape) provides 0-downtime schema migrations (see [the blog post](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/), too)
 - [Writing an OS in Rust](https://os.phil-opp.com/) a series of articles/tutorials on building a minimal (bootable) OS in Rust.
+- [Cargo bloat](https://github.com/RazrFalcon/cargo-bloat) a nifty tool giving you the worst offenders in your build deps for build time/space.
 
 ### Python
 
