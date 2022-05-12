@@ -71,6 +71,7 @@ A collection of language-specific tips and tricks.
 - [spotifyd](https://github.com/Spotifyd/spotifyd) a spotify-compatible daemon (appears in your list of spotify devices)
 - [gh-prs](https://github.com/dlvhdr/gh-prs) View and interact with github PRs in the terminal
 - [barrier](https://github.com/debauchee/barrier) an open-source software KVM switch that works seamlessly across Mac, Windows and Linux.
+- [Never use git push --force](https://salferrarello.com/never-git-push-force/) never use --force, always --force-with-lease (or an "please" alias)
 
 
 ## Dealing with people
