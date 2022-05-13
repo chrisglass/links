@@ -3,16 +3,19 @@
 A collection of useful and insightful links found on the internet.
 This is basically a personal reference that also happens to be public
 
-## General programming practices
+## Programming practices and patterns
 
 - [Antirez on writing comments](http://antirez.com/news/124) Taxonomy of comments, and how to write useful comments
 - [The rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) and [a longer form take on it](https://andrewbrookins.com/technology/the-rule-of-three/)
 - [The law of least surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) Don't add functionality until deemed necessary
+- [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
+- [General Orchestrator pattern](https://kislayverma.com/software-architecture/architecture-pattern-orchestration-via-workflows/)
 
 ## Programming languages
 
 A collection of language-specific tips and tricks.
+
 ### Rust
 
 - [Anyhow](https://docs.rs/anyhow/latest/anyhow/) and [Thiserror](https://docs.rs/thiserror/latest/thiserror/) for error handling.
@@ -42,11 +45,6 @@ A collection of language-specific tips and tricks.
 ### Golang
 
 - [The zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go) a pretty good article on some aspects of "idiomatic" Go.
-
-### Multiple
-
-- [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
-- [General Orchestrator pattern](https://kislayverma.com/software-architecture/architecture-pattern-orchestration-via-workflows/)
 
 ## Ubuntu
 
