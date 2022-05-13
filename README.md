@@ -81,6 +81,7 @@ A collection of language-specific tips and tricks.
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
+- [The rules of civil conversation](https://therulesofcivilconversation.org/)
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
