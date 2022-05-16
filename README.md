@@ -75,7 +75,6 @@ A collection of language-specific tips and tricks.
 
 ## Dealing with people
 
-- [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf) a summary of Rosenberg's excellent "Nonviolent communication" book.
 - [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
