@@ -83,6 +83,7 @@ A collection of language-specific tips and tricks.
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
 - [Encouraging a culture of remote communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 - [The rules of civil conversation](https://therulesofcivilconversation.org/)
+- [We need someone who has done "it" before](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) A common trap when hiring
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
