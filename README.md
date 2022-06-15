@@ -11,6 +11,7 @@ This is basically a personal reference that also happens to be public
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) Don't add functionality until deemed necessary
 - [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
 - [General Orchestrator pattern](https://kislayverma.com/software-architecture/architecture-pattern-orchestration-via-workflows/)
+- [Why duck typing is safe](http://www.jerf.org/iri/post/2954)
 
 ## Programming languages
 
