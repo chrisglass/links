@@ -40,6 +40,7 @@ A collection of language-specific tips and tricks.
 - [Scalene](https://github.com/plasma-umass/scalene) A high performance profiler
 - [Slipcover](https://github.com/plasma-umass/slipcover) a near-zero overhead coverage tool for python
 - [Writing a weechat plugin in Python](https://weechat.org/files/doc/stable/weechat_scripting.en.html)
+- [Pretend](https://github.com/alex/pretend) a library to write stubs easily
 
 
 ### Clojure
