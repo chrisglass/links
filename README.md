@@ -12,6 +12,8 @@ This is basically a personal reference that also happens to be public
 - [POSIX locks in Go/Python/Rust](https://github.com/chrisglass/posix-locks) (by me :metal:) Example implementations of mutually-locking POSIX locks in different languages.
 - [General Orchestrator pattern](https://kislayverma.com/software-architecture/architecture-pattern-orchestration-via-workflows/)
 - [Why duck typing is safe](http://www.jerf.org/iri/post/2954)
+- [Don't mock what you don't own](https://hynek.me/articles/what-to-mock-in-5-mins/) A great article about unit testing and mocking
+- [Mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html) Taxonomy of test mocks/stubs and when to use them
 
 ## Programming languages
 
