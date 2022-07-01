@@ -49,6 +49,7 @@ A collection of language-specific tips and tricks.
 - [How to write a Clojure application](https://www.exoscale.com/syslog/clojure-application-tutorial/) (by me :metal:) how to write a Clojure webapp with DB from scratch.
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what `mapcat` does
+- [Clojure for the brave and true](https://www.braveclojure.com/) great beginner book, one of my favorite technical books ever
 
 ### Golang
 
