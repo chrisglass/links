@@ -28,6 +28,7 @@ A collection of language-specific tips and tricks.
 - [Cargo bloat](https://github.com/RazrFalcon/cargo-bloat) a nifty tool giving you the worst offenders in your build deps for build time/space.
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
 - [Jelly](https://github.com/secretkeysio/jelly-actix-web-starter) a "Django-like" framework for Rust
+- [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
 
 ### Python
 
@@ -85,6 +86,7 @@ A collection of language-specific tips and tricks.
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
+- [Remote communication guidelines](https://shiphero.com/careers/communication-guidelines/) another communications guide by a fully remote company, Shiphero
 - [Encouraging a culture of remote communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 - [The rules of civil conversation](https://therulesofcivilconversation.org/)
 - [We need someone who has done "it" before](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) A common trap when hiring
