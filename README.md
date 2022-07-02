@@ -29,6 +29,7 @@ A collection of language-specific tips and tricks.
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
 - [Jelly](https://github.com/secretkeysio/jelly-actix-web-starter) a "Django-like" framework for Rust
 - [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
+- [Cheats.rs](https://cheats.rs) a Rust cheatsheet
 
 ### Python
 
@@ -50,6 +51,7 @@ A collection of language-specific tips and tricks.
 - [Today in Clojure](https://todayinclojure.com/) a simple news aggregator for the clojure world.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what `mapcat` does
 - [Clojure for the brave and true](https://www.braveclojure.com/) great beginner book, one of my favorite technical books ever
+- [Loopr](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure) a loop/reduction macro for clojure, by Aphyr
 
 ### Golang
 
