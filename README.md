@@ -30,6 +30,7 @@ A collection of language-specific tips and tricks.
 - [Jelly](https://github.com/secretkeysio/jelly-actix-web-starter) a "Django-like" framework for Rust
 - [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
 - [Cheats.rs](https://cheats.rs) a Rust cheatsheet
+- [Rouille](https://github.com/tomaka/rouille) a simple, threaded (no async) webserver for Rust
 
 ### Python
 
