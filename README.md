@@ -95,6 +95,7 @@ A collection of language-specific tips and tricks.
 - [The rules of civil conversation](https://therulesofcivilconversation.org/)
 - [We need someone who has done "it" before](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) A common trap when hiring
 - [Untools](https://untools.co/) A repository of tools about communicating and other topics
+- [Hard skills get you hired, soft skills get you promoted](https://twitter.com/heykahn/status/1551556521628094465) A twitter thread about "soft" skills.
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
