@@ -53,6 +53,7 @@ A collection of language-specific tips and tricks.
 - [The clojure cheatsheet](https://clojure.org/api/cheatsheet) for those times when you really can't remember what `mapcat` does
 - [Clojure for the brave and true](https://www.braveclojure.com/) great beginner book, one of my favorite technical books ever
 - [Loopr](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure) a loop/reduction macro for clojure, by Aphyr
+- [Jank](https://jank-lang.org/) an LLVM-backed implemention of Clojure
 
 ### Golang
 
