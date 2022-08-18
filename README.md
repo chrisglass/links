@@ -31,6 +31,7 @@ A collection of language-specific tips and tricks.
 - [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
 - [Cheats.rs](https://cheats.rs) a Rust cheatsheet
 - [Rouille](https://github.com/tomaka/rouille) a simple, threaded (no async) webserver for Rust
+- [oxhttp](https://github.com/oxigraph/oxhttp) another simple non-async webserver written in Rust
 
 ### Python
 
