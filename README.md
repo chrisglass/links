@@ -73,8 +73,9 @@ A collection of language-specific tips and tricks.
 - [Kernel SRU workflows](http://kernel.ubuntu.com/sru/kernel-sru-workflow.html)
 - [Ubuntu Amazon EC2 AMI Finder](https://cloud-images.ubuntu.com/locator/ec2/)
 
-## Hadoop
+## Data/databases
 - [Hadoop and Kerberos: The madness beyond the gate](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/sections/kerberos_the_madness.html)
+- [Materialize](https://github.com/MaterializeInc/materialize) "materialized views" over streaming data sources such as kafka topics
 
 ## CLI tools
 
