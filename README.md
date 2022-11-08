@@ -59,6 +59,7 @@ A collection of language-specific tips and tricks.
 ### Golang
 
 - [The zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go) a pretty good article on some aspects of "idiomatic" Go.
+- [Maps and memory leaks](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) some important highlights of go's memory management.
 
 ## Ubuntu
 
