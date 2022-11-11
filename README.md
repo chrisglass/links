@@ -106,3 +106,6 @@ A collection of language-specific tips and tricks.
 - [Simon Willison's](https://til.simonwillison.net)
 - [Josh Branchaud's](https://github.com/jbranchaud/til)
 - [Srinivas's](https://shireenrao.github.io/til/)
+
+## Meta
+My <a rel="me" href="https://hachyderm.io/@tribaal">Mastodon</a> (on hachyderm.io)
