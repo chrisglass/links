@@ -32,6 +32,7 @@ A collection of language-specific tips and tricks.
 - [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
 - [Cheats.rs](https://cheats.rs) a Rust cheatsheet
 - [Axum](https://github.com/tokio-rs/axum) a Rust web framework
+- [Polars](https://pola.rs) a Rust data framework/library that interfaces natively with the python ecosystem as well
 
 ### Python
 
