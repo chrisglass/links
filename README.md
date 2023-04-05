@@ -15,6 +15,7 @@ This is basically a personal reference that also happens to be public
 - [Don't mock what you don't own](https://hynek.me/articles/what-to-mock-in-5-mins/) A great article about unit testing and mocking
 - [Mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html) Taxonomy of test mocks/stubs and when to use them
 - [The C4 model for visualizing software architecture](https://c4model.com/) A framework for documenting software architecture
+- [69 ways to mess up your deploy](https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/) A reflexion on pitfalls in a Devops world
 
 ## Programming languages
 
@@ -103,6 +104,7 @@ A collection of language-specific tips and tricks.
 - [We need someone who has done "it" before](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) A common trap when hiring
 - [Untools](https://untools.co/) A repository of tools about communicating and other topics
 - [Hard skills get you hired, soft skills get you promoted](https://twitter.com/heykahn/status/1551556521628094465) A twitter thread about "soft" skills.
+- [A Gentler, Better way to change minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/) A take on convincing people
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
