@@ -34,6 +34,7 @@ A collection of language-specific tips and tricks.
 - [Cheats.rs](https://cheats.rs) a Rust cheatsheet
 - [Axum](https://github.com/tokio-rs/axum) a Rust web framework
 - [Polars](https://pola.rs) a Rust data framework/library that interfaces natively with the python ecosystem as well
+- [Maturin](https://www.maturin.rs/) a Rust build system to trivially build Python extensions in Rust.
 
 ### Python
 
