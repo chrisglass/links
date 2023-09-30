@@ -18,6 +18,7 @@ This is basically a personal reference that also happens to be public
 - [The C4 model for visualizing software architecture](https://c4model.com/) A framework for documenting software architecture
 - [69 ways to mess up your deploy](https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/) A reflexion on pitfalls in a Devops world
 - [OWASP Security guidelines](https://cheatsheetseries.owasp.org/index.html) A very digestible collection of articles on practical security.
+- [No YAML](https://noyaml.com/) Some gotchas about YAML and why we should avoid to use it.
 
 ## Programming languages
 
