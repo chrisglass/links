@@ -8,10 +8,10 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@main
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.2.0
+        uses: lycheeverse/lychee-action@main
         with:
           fail: true
         env:
