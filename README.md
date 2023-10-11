@@ -21,6 +21,13 @@ This is basically a personal reference that also happens to be public
 - [No YAML](https://noyaml.com/) Some gotchas about YAML and why we should avoid to use it.
 - [GyShiDo](https://gyshido.com) The art of getting your shit done 
 
+## AI Stuff
+
+In the middle of the AI craze, it's good to have a list of products that actually show promise.
+
+- [Reclaim](https://reclaim.ai/) Let AI organize your calendar
+- [Copilot](https://github.com/features/copilot) Your AI peer programmer
+
 ## Programming languages
 
 A collection of language-specific tips and tricks.
