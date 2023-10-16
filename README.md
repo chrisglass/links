@@ -88,7 +88,6 @@ A collection of language-specific links.
 - [Merge-o-matic](https://merges.ubuntu.com/)
 - [Transitions tracker](https://people.canonical.com/~ubuntu-archive/transitions/html/)
 - [Components mismatches](http://people.canonical.com/~ubuntu-archive/component-mismatches.txt)
-- [Kernel SRU workflows](http://kernel.ubuntu.com/sru/kernel-sru-workflow.html)
 - [Ubuntu Amazon EC2 AMI Finder](https://cloud-images.ubuntu.com/locator/ec2/)
 
 ## Data/databases
