@@ -20,6 +20,7 @@ This is basically a personal reference that also happens to be public
 - [OWASP Security guidelines](https://cheatsheetseries.owasp.org/index.html) A very digestible collection of articles on practical security.
 - [No YAML](https://noyaml.com/) Some gotchas about YAML and why we should avoid to use it.
 - [GyShiDo](https://gyshido.com) The art of getting your shit done 
+- [Sans-IO](https://sans-io.readthedocs.io/) A collection of links to protocols implemented as bring-your-own-IO
 
 ## AI Stuff
 
@@ -30,7 +31,7 @@ In the middle of the AI craze, it's good to have a list of products that actuall
 
 ## Programming languages
 
-A collection of language-specific tips and tricks.
+A collection of language-specific links.
 
 ### Rust
 
