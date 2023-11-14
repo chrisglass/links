@@ -42,7 +42,6 @@ A collection of language-specific links.
 - [Writing an OS in Rust](https://os.phil-opp.com/) a series of articles/tutorials on building a minimal (bootable) OS in Rust.
 - [Cargo bloat](https://github.com/RazrFalcon/cargo-bloat) a nifty tool giving you the worst offenders in your build deps for build time/space.
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
-- [Jelly](https://github.com/secretkeysio/jelly-actix-web-starter) a "Django-like" framework for Rust
 - [A gentle introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) great beginner-friendly tutorial, narrated (as opposed to reference-like)
 - [Cheats.rs](https://cheats.rs) a Rust cheatsheet
 - [Axum](https://github.com/tokio-rs/axum) a Rust web framework
