@@ -28,6 +28,7 @@ In the middle of the AI craze, it's good to have a list of products that actuall
 
 - [Reclaim](https://reclaim.ai/) Let AI organize your calendar
 - [Copilot](https://github.com/features/copilot) Your AI peer programmer
+- [Should I solve it with AI?](https://tiferet.github.io/posts/should-i-solve-it-with-ai/) A great take on what to ask yourself before jumping on the AI bandwagon
 
 ## Programming languages
 
