@@ -47,7 +47,7 @@ A collection of language-specific links.
 - [Axum](https://github.com/tokio-rs/axum) a Rust web framework
 - [Polars](https://pola.rs) a Rust data framework/library that interfaces natively with the python ecosystem as well
 - [Maturin](https://www.maturin.rs/) a Rust build system to trivially build Python extensions in Rust.
-- [Egui](https://www.egui.rs/) an outstanding direct mode Ui library
+- [Egui](https://www.egui.rs/) an outstanding immediate mode UI library
 
 ### Python
 
