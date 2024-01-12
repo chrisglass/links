@@ -62,6 +62,7 @@ A collection of language-specific links.
 - [Writing a weechat plugin in Python](https://weechat.org/files/doc/stable/weechat_scripting.en.html)
 - [Pretend](https://github.com/alex/pretend) a library to write stubs easily
 - [Ruff](https://github.com/charliermarsh/ruff) a really fast linter written in Rust
+- [Streamlit](https://streamlit.io) an amazing data visualization library
 
 
 ### Clojure
