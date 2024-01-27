@@ -48,7 +48,8 @@ A collection of language-specific links.
 - [Polars](https://pola.rs) a Rust data framework/library that interfaces natively with the python ecosystem as well
 - [Maturin](https://www.maturin.rs/) a Rust build system to trivially build Python extensions in Rust.
 - [Egui](https://www.egui.rs/) an outstanding immediate mode UI library
-- [REMOC](https://github.com/ENQT-GmbH/remoc/) an amazing library to make interacting with remote rust programs a breeze
+- [remoc](https://github.com/ENQT-GmbH/remoc/) an amazing library to make interacting with remote rust programs a breeze
+- [Databend](https://github.com/datafuselabs/databend) a modern alternative to snowflake, written in Rust
 
 ### Python
 
