@@ -65,6 +65,7 @@ A collection of language-specific links.
 - [Pretend](https://github.com/alex/pretend) a library to write stubs easily
 - [Ruff](https://github.com/charliermarsh/ruff) a really fast linter written in Rust
 - [Streamlit](https://streamlit.io) an amazing data visualization library
+- [Rye](https://rye-up.com/) a fast and correct python project manager
 
 
 ### Clojure
