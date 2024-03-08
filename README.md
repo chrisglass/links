@@ -55,7 +55,7 @@ A collection of language-specific links.
 ### Python
 
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embeds in python
-- [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python. [This blog post](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/) is pretty nice to explain some of the usage, too.
+- [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
 - [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx...
 - [Pre-commit](https://pre-commit.com/) A python package to make pre-commit hooks much easier to write/run
@@ -119,7 +119,6 @@ A collection of language-specific links.
 - [Remote communication guidelines](https://shiphero.com/careers/communication-guidelines/) another communications guide by a fully remote company, Shiphero
 - [Encouraging a culture of remote communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
 - [The rules of civil conversation](https://therulesofcivilconversation.org/)
-- [We need someone who has done "it" before](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) A common trap when hiring
 - [Untools](https://untools.co/) A repository of tools about communicating and other topics
 - [A Gentler, Better way to change minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/) A take on convincing people
 
