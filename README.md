@@ -21,6 +21,7 @@ This is basically a personal reference that also happens to be public
 - [No YAML](https://noyaml.com/) Some gotchas about YAML and why we should avoid to use it.
 - [GyShiDo](https://gyshido.com) The art of getting your shit done 
 - [Sans-IO](https://sans-io.readthedocs.io/) A collection of links to protocols implemented as bring-your-own-IO
+- [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
 
 ## AI Stuff
 
