@@ -67,6 +67,7 @@ A collection of language-specific links.
 - [Ruff](https://github.com/charliermarsh/ruff) a really fast linter written in Rust
 - [Streamlit](https://streamlit.io) an amazing data visualization library
 - [Rye](https://rye-up.com/) a fast and correct python project manager
+- [alive-progress](https://github.com/rsalmei/alive-progress) a set of nice-looking progress bars
 
 
 ### Clojure
