@@ -22,6 +22,7 @@ This is basically a personal reference that also happens to be public
 - [GyShiDo](https://gyshido.com) The art of getting your shit done 
 - [Sans-IO](https://sans-io.readthedocs.io/) A collection of links to protocols implemented as bring-your-own-IO
 - [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
+- [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
 
 ## AI Stuff
 
