@@ -69,6 +69,7 @@ A collection of language-specific links.
 - [Streamlit](https://streamlit.io) an amazing data visualization library
 - [Rye](https://rye-up.com/) a fast and correct python project manager
 - [alive-progress](https://github.com/rsalmei/alive-progress) a set of nice-looking progress bars
+- [croniter](https://github.com/kiorky/croniter) a very hand python lib to manipulate/validate cron syntax
 
 
 ### Clojure
