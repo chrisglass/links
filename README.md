@@ -113,6 +113,7 @@ A collection of language-specific links.
 - [gh-prs](https://github.com/dlvhdr/gh-prs) View and interact with github PRs in the terminal
 - [barrier](https://github.com/debauchee/barrier) an open-source software KVM switch that works seamlessly across Mac, Windows and Linux.
 - [Never use git push --force](https://salferrarello.com/never-git-push-force/) never use --force, always --force-with-lease (or a "please" alias)
+- [libtree](https://github.com/haampie/libtree) LDD as a tree!
 
 
 ## Dealing with people
