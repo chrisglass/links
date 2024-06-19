@@ -54,6 +54,7 @@ A collection of language-specific links.
 - [remoc](https://github.com/ENQT-GmbH/remoc/) an amazing library to make interacting with remote rust programs a breeze
 - [Databend](https://github.com/datafuselabs/databend) a modern alternative to snowflake, written in Rust
 - [Samply](https://github.com/mstange/samply) a CPU profiler written in Rust (and useful for Rust too)
+- [Pysequoia](https://github.com/wiktor-k/pysequoia) a python wrapper for GPG encryption around a Rust reimplementation
 
 ### Python
 
