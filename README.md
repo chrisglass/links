@@ -56,6 +56,7 @@ A collection of language-specific links.
 - [Samply](https://github.com/mstange/samply) a CPU profiler written in Rust (and useful for Rust too)
 - [Pysequoia](https://github.com/wiktor-k/pysequoia) a python wrapper for GPG encryption around a Rust reimplementation
 - [Daquiri](https://github.com/resyncgg/dacquiri) a RBAC library that's enforced at compile time
+= [Mockall](https://crates.io/crates/mockall) a mock crate for Rust traits, to use in unit testing
 
 ### Python
 
