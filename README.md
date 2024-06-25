@@ -131,6 +131,7 @@ A collection of language-specific links.
 - [The rules of civil conversation](https://therulesofcivilconversation.org/)
 - [Untools](https://untools.co/) A repository of tools about communicating and other topics
 - [A Gentler, Better way to change minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/) A take on convincing people
+- [Shape-up](https://basecamp.com/shapeup) basecamp's methodology for "project management"
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
