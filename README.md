@@ -58,6 +58,7 @@ A collection of language-specific links.
 - [Daquiri](https://github.com/resyncgg/dacquiri) a RBAC library that's enforced at compile time
 - [Mockall](https://crates.io/crates/mockall) a mock crate for Rust traits, to use in unit testing
 - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) a PGO implementation for cargo/Rust, and a couple of [blog](https://kobzol.github.io/rust/cargo/2023/07/28/rust-cargo-pgo.html) [articles](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html) about it
+- [rust-api.dev](https://rust-api.dev/) an end-to-end tutorial/example to build REST APIs in Rust
 
 ### Python
 
