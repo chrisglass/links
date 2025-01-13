@@ -125,6 +125,7 @@ A collection of language-specific links.
 
 - [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
 - [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+- [What we owe each other](https://unhandledexpression.com/what-we-owe-each-other/) thoughts on code review
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
 - [Remote communication guidelines](https://shiphero.com/careers/communication-guidelines/) another communications guide by a fully remote company, Shiphero
