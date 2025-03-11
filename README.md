@@ -78,6 +78,7 @@ A collection of language-specific links.
 - [alive-progress](https://github.com/rsalmei/alive-progress) a set of nice-looking progress bars
 - [croniter](https://github.com/kiorky/croniter) a very hand python lib to manipulate/validate cron syntax
 - [Structlog](https://github.com/hynek/structlog) a beautiful logging library, drop-in for std's logging
+- [Cog](https://cog.readthedocs.io/en/latest/) a simple embedded python generator for text/code
 
 
 ### Clojure
