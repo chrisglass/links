@@ -24,6 +24,7 @@ This is basically a personal reference that also happens to be public
 - [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
 - [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
 - [Why I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/) an opinion piece on why GRaphQL should generally be avoided.
+- [Excalidraw](https://excalidraw.com/) my favorite diagraming tool, by far
 
 ## AI Stuff
 
@@ -58,7 +59,13 @@ A collection of language-specific links.
 - [Daquiri](https://github.com/resyncgg/dacquiri) a RBAC library that's enforced at compile time
 - [Mockall](https://crates.io/crates/mockall) a mock crate for Rust traits, to use in unit testing
 - [cargo-pgo](https://github.com/Kobzol/cargo-pgo) a PGO implementation for cargo/Rust, and a couple of [blog](https://kobzol.github.io/rust/cargo/2023/07/28/rust-cargo-pgo.html) [articles](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html) about it
+- [cargo-insta](https://crates.io/crates/cargo-insta) a cargo subcommand for snapshot testing
+- [cargo-mutants](https://mutants.rs/) a cargo subcommand for mutation testing
+- [arcshift](https://docs.rs/arcshift/latest/arcshift/) a faster replacement for std::sync::Arc<std::sync::RwLock<T>>
 - [rust-api.dev](https://rust-api.dev/) an end-to-end tutorial/example to build REST APIs in Rust
+- [iroh](https://docs.rs/iroh/latest/iroh/) a peer-to-peer framework
+- [yrs](https://docs.rs/yrs/latest/yrs/) ("wires") a high performance CRDT implementation
+- [restate](https://docs.rs/restate/latest/restate/) a library to write finite state machines
 
 ### Python
 
