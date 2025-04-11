@@ -66,6 +66,7 @@ A collection of language-specific links.
 - [iroh](https://docs.rs/iroh/latest/iroh/) a peer-to-peer framework
 - [yrs](https://docs.rs/yrs/latest/yrs/) ("wires") a high performance CRDT implementation
 - [restate](https://docs.rs/restate/latest/restate/) a library to write finite state machines
+- [pipeline.rs](https://github.com/johannhof/pipeline.rs) a Rust macro similar to the threading operator (->) in Clojure
 
 ### Python
 
