@@ -19,7 +19,7 @@ This is basically a personal reference that also happens to be public
 - [69 ways to mess up your deploy](https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/) A reflexion on pitfalls in a Devops world
 - [OWASP Security guidelines](https://cheatsheetseries.owasp.org/index.html) A very digestible collection of articles on practical security.
 - [No YAML](https://noyaml.com/) Some gotchas about YAML and why we should avoid to use it.
-- [GyShiDo](https://gyshido.com) The art of getting your shit done 
+- [GyShiDo](https://gyshido.com) The art of getting your shit done
 - [Sans-IO](https://sans-io.readthedocs.io/) A collection of links to protocols implemented as bring-your-own-IO
 - [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
 - [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
@@ -67,6 +67,7 @@ A collection of language-specific links.
 - [yrs](https://docs.rs/yrs/latest/yrs/) ("wires") a high performance CRDT implementation
 - [restate](https://docs.rs/restate/latest/restate/) a library to write finite state machines
 - [pipeline.rs](https://github.com/johannhof/pipeline.rs) a Rust macro similar to the threading operator (->) in Clojure
+- [iced](https://github.com/iced-rs/iced) a great retained mode UI toolkit
 
 ### Python
 
