@@ -144,6 +144,7 @@ A collection of language-specific links.
 - [A Gentler, Better way to change minds](https://www.theatlantic.com/family/archive/2022/04/arguing-with-someone-different-values/629495/) A take on convincing people
 - [Shape-up](https://basecamp.com/shapeup) basecamp's methodology for "project management"
 - [Contempt culture](https://blog.aurynn.com/2015/12/16-contempt-culture/) let's not make prorgamming languages into religions
+- [How to run 1:1 as an engineering manager](https://justoffbyone.com/posts/how-to-run-11s/) How to run effective 1:1 meetings
 
 ## Meta: other lists of links and TILs
 - [Pawel's](https://github.com/pawroman/links)
