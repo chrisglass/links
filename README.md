@@ -34,9 +34,10 @@ In the middle of the AI craze, it's good to have a list of products that actuall
 - [Copilot](https://github.com/features/copilot) Your AI peer programmer
 - [Should I solve it with AI?](https://tiferet.github.io/posts/should-i-solve-it-with-ai/) A great take on what to ask yourself before jumping on the AI bandwagon
 
-## Infrastructure
+## Infrastructure/OS
  - [Talos](https://github.com/siderolabs/talos) a kubernetes-specific "linux distribution"
  - [Tailscale](https://tailscale.com) an overlay VPN for all your devices
+ - [Freshports](https://www.freshports.org/ports-new.php?interval=week) a list of the latest week's worth of ports in FreeBSD
 
 ## Programming languages
 
