@@ -78,7 +78,7 @@ A collection of language-specific links.
 - [Hy](https://github.com/hylang/hy) a dialect of lisp that embeds in python
 - [Lark](https://github.com/lark-parser/lark) a parsing toolkit/DSL framework for python.
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) fuzzing python programs, the smart way
-- [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx...
+- [A list and comparison of Python package managers](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry) pip, pipenv, poetry, venv, virtualenv, pipx... (Note: you hould now use [uv](https://docs.astral.sh/uv/))
 - [Pre-commit](https://pre-commit.com/) A python package to make pre-commit hooks much easier to write/run
 - [Memray](https://github.com/bloomberg/memray) A pretty good memory profiler
 - [Scalene](https://github.com/plasma-umass/scalene) A high performance profiler
@@ -92,6 +92,8 @@ A collection of language-specific links.
 - [croniter](https://github.com/kiorky/croniter) a very hand python lib to manipulate/validate cron syntax
 - [Structlog](https://github.com/hynek/structlog) a beautiful logging library, drop-in for std's logging
 - [Cog](https://cog.readthedocs.io/en/latest/) a simple embedded python generator for text/code
+- [uv](https://docs.astral.sh/uv/) the ultimate python pacakge manager, written in Rust
+- [pyx](https://astral.sh/pyx) a hosted pypi mirror/archive, by the creators of uv and ruff
 
 
 ### Clojure
