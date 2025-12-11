@@ -5,7 +5,13 @@ This is basically a personal reference that also happens to be public
 
 ## Programming practices and patterns
 
+### Star picks
+
 - [Antirez on writing comments](http://antirez.com/news/124) Taxonomy of comments, and how to write useful comments
+- [Code review at Google](https://google.github.io/eng-practices/) an excellent, consice way of describing what code review should be like
+
+### Other discoveries
+
 - [Writing maintainable code is a communication skill](https://max.engineer/maintainable-code) A very well put article about comments and communication
 - [The rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)) and [a longer form take on it](https://andrewbrookins.com/technology/the-rule-of-three/)
 - [The law of least surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
@@ -24,7 +30,6 @@ This is basically a personal reference that also happens to be public
 - [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
 - [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
 - [Why I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/) an opinion piece on why GRaphQL should generally be avoided.
-- [Excalidraw](https://excalidraw.com/) my favorite diagraming tool, by far
 
 ## AI Stuff
 
@@ -127,8 +132,9 @@ A collection of language-specific links.
 ## Data/databases
 - [Materialize](https://github.com/MaterializeInc/materialize) "materialized views" over streaming data sources such as kafka topics
 
-## CLI tools
+## Tools
 
+- [Excalidraw](https://excalidraw.com/) my favorite diagraming tool, by far
 - [termshark](https://termshark.io/) when normal wireshark is too heavy, or you don't have a GUI
 - [fzf](https://github.com/junegunn/fzf) a command-line fuzzy finder
 - [spotifyd](https://github.com/Spotifyd/spotifyd) a spotify-compatible daemon (appears in your list of spotify devices)
