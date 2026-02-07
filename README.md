@@ -116,7 +116,6 @@ A collection of language-specific links.
 ### Golang
 
 - [The zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go) a pretty good article on some aspects of "idiomatic" Go.
-- [Maps and memory leaks](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) some important highlights of go's memory management.
 - [Go vuln check](https://go.dev/blog/vuln) A security scanner for your go dependencies
 
 ## Ubuntu
@@ -150,7 +149,6 @@ A collection of language-specific links.
 ## Dealing with people
 
 - [How to Deal with Difficult People on Software Projects](https://people.neilon.software/)
-- [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [On being a senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Communication in a remote setting](https://basecamp.com/guides/how-we-communicate) Basecamp is 100% remote, some reflections about communicating in that setting.
 - [Remote communication guidelines](https://shiphero.com/careers/communication-guidelines/) another communications guide by a fully remote company, Shiphero
