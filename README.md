@@ -44,6 +44,7 @@ In the middle of the AI craze, it's good to have a list of products that actuall
  - [Tailscale](https://tailscale.com) an overlay VPN for all your devices
  - [Freshports](https://www.freshports.org/ports-new.php?interval=week) a list of the latest week's worth of ports in FreeBSD
  - [Artifact-keeper](https://github.com/artifact-keeper) an artifact repository similar to artifactory but free/open-source
+ - [headscale](https://headscale.net/stable/) a self-hosted tailscale alternative
 
 ## Programming languages
 
