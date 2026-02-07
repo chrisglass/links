@@ -30,6 +30,7 @@ This is basically a personal reference that also happens to be public
 - [I'm a programmer, and I'm stupid](https://antonz.org/stupid/) a funny take on writing simple, understandable code
 - [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
 - [Why I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/) an opinion piece on why GRaphQL should generally be avoided.
+- [Stop hacklore!](https://www.hacklore.org/letter) a very simple set of security practices to meaningfully improve security in an organisation
 
 ## AI Stuff
 
