@@ -43,6 +43,7 @@ In the middle of the AI craze, it's good to have a list of products that actuall
  - [Talos](https://github.com/siderolabs/talos) a kubernetes-specific "linux distribution"
  - [Tailscale](https://tailscale.com) an overlay VPN for all your devices
  - [Freshports](https://www.freshports.org/ports-new.php?interval=week) a list of the latest week's worth of ports in FreeBSD
+ - [Artifact-keeper](https://github.com/artifact-keeper) an artifact repository similar to artifactory but free/open-source
 
 ## Programming languages
 
@@ -142,6 +143,7 @@ A collection of language-specific links.
 - [barrier](https://github.com/debauchee/barrier) an open-source software KVM switch that works seamlessly across Mac, Windows and Linux.
 - [Never use git push --force](https://salferrarello.com/never-git-push-force/) never use --force, always --force-with-lease (or a "please" alias)
 - [libtree](https://github.com/haampie/libtree) LDD as a tree!
+- [parqeye](https://github.com/kaushiksrini/parqeye) peek inside parquet files from the CLI
 
 
 ## Dealing with people
