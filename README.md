@@ -81,6 +81,7 @@ A collection of language-specific links.
 - [restate](https://docs.rs/restate/latest/restate/) a library to write finite state machines
 - [pipeline.rs](https://github.com/johannhof/pipeline.rs) a Rust macro similar to the threading operator (->) in Clojure
 - [iced](https://github.com/iced-rs/iced) a great retained mode UI toolkit
+- [hotpath](https://hotpath.rs/) a Rust memory and performance profiler
 
 ### Python
 
