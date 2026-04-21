@@ -31,6 +31,7 @@ This is basically a personal reference that also happens to be public
 - [What makes a great software engineer?](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf) some research about qualities great software engineers share
 - [Why I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/) an opinion piece on why GRaphQL should generally be avoided.
 - [Stop hacklore!](https://www.hacklore.org/letter) a very simple set of security practices to meaningfully improve security in an organisation
+- [Laws of software engineering](https://lawsofsoftwareengineering.com/) a list of "laws" of software engineering.
 
 ## AI Stuff
 
